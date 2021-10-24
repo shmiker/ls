@@ -4,7 +4,7 @@ Branches:
 
  - develop's client package is lightweight, only has classes for testing API calls from Java programmatically
 
- - master's client package has Vaadin client for manipulations through browser
+ - master's client package has Vaadin client for manipulations through browser. Can be skipped since it will require npm installation and was not the requirement
  
    will require 'mvn package' to fetch npm packages
 
