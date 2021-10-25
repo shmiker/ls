@@ -1,4 +1,4 @@
-# Loan Street API Exercise
+# LS API Exercise
 
 Branches:
  - master's client package has Vaadin client for manipulations through browser
